@@ -1,0 +1,1 @@
+Implementation of the Discrete Wavelet Transform using the NVIDIA CUDA Plataform.
